@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831846500511",
+    "project_id": "tara-swim-arena-workout",
+    "storage_bucket": "tara-swim-arena-workout.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831846500511:android:9bab9e1ac68be0075cbaaa",
+        "android_client_info": {
+          "package_name": "com.example.taraswimarenaworkout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5GQdfRaQENCg_eiliHXd2_tDiGqB_uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
